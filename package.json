@@ -1,7 +1,7 @@
 {
   "name": "git-npm",
   "version": "1.0.0",
-  "description": "Tool for lazy developers, run npm commands directly from git and be more lazy",
+  "description": "Tool for lazy developers, run npm commands directly through git and be more lazy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
