@@ -16,10 +16,10 @@
 # What?
 
 As we use `git` frequently to manage our web projects, it is common to make a mistake to run the `npm` commands with `git` e.g. we type
-`git install` instead of `npm install` or `git start` instead of `npm start` etc as mistake.
+`git install` instead of `npm install` or `git start` instead of `npm start` etc. as mistake.
 
-Then here this tool comes to solve these issues: Now you can run any npm command directly as git command like run `git install` to install npm modules
-or run `git test` to run test cases or even run `git start` to start the server, you don't need switch `git` to `npm` 😎, BE LAZY.
+Then here this tool comes to solve these issues: now you can run any `npm` command directly as `git` command like run `git install` to install npm node modules
+or run `git test` to run test cases or even run `git start` to start the server, you don't need to switch from `git` to `npm` 😎, JUST BE LAZY.
 
 ## How does it work?
 
@@ -35,21 +35,21 @@ npm install -g git-plus-npm
 
 ## Usage
 
-After installing the tool, you are ready use npm commands from git:
+After installing the tool, you are ready use npm commands through git:
 
-### Run git install instead of npm install
+### Run `git install` instead of `npm install`
 
 <img src="https://github.com/rousan/git-npm/raw/develop/git-install.png" alt="git install" title="git install">
 
-### Run git i instead of npm i
+### Run `git i` instead of `npm i`
 
 <img src="https://github.com/rousan/git-npm/raw/develop/git-i.png" alt="git i" title="git i">
 
-### Run git test instead of npm test
+### Run `git test` instead of `npm test`
 
 <img src="https://github.com/rousan/git-npm/raw/develop/git-test.png" alt="git test" title="git test">
 
-### Run git start instead of npm start
+### Run `git start` instead of `npm start`
 
 <img src="https://github.com/rousan/git-npm/raw/develop/git-start.png" alt="git start" title="git start">
 
