@@ -2,15 +2,15 @@
   <br />
   <br />
   <a href="https://github.com/rousan/git-npm">
-    <img src="https://github.com/rousan/git-npm/raw/develop/logo.png" width="400" alt="git-npm" title="git-npm" />
+    <img src="https://github.com/rousan/git-npm/raw/master/logo.png" width="400" alt="git-npm" title="git-npm" />
   </a>
 </h3>
 <br />
 <br />
 <br />
 
-[![NPM version](https://img.shields.io/npm/v/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
-[![NPM total downloads](https://img.shields.io/npm/dt/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
+[![NPM version](https://img.shields.io/npm/v/git-plus-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
+[![NPM total downloads](https://img.shields.io/npm/dt/git-plus-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
 [![Contributors](https://img.shields.io/github/contributors/rousan/git-npm.svg)](https://github.com/rousan/git-npm/graphs/contributors)
 [![License](https://img.shields.io/github/license/rousan/git-npm.svg)](https://github.com/rousan/git-npm/blob/master/LICENSE)
 
@@ -139,4 +139,4 @@ The following `npm` commands can be run through `git`:
 
 Your PRs and stars are always welcome.
 
-Checkout the [CONTRIBUTING](https://github.com/rousan/sl/blob/master/CONTRIBUTING.md) guides.
+Checkout the [CONTRIBUTING](https://github.com/rousan/git-npm/blob/master/CONTRIBUTING.md) guides.

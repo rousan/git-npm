@@ -1,8 +1,7 @@
 {
-  "name": "git-npm",
+  "name": "git-plus-npm",
   "version": "1.0.0",
   "description": "Tool for lazy developers, run npm commands directly through git and be more lazy",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -94,7 +93,11 @@
     "developer",
     "run",
     "sloth",
-    "merge"
+    "merge",
+    "easy",
+    "shortcut",
+    "alias",
+    "run"
   ],
   "author": "Rousan Ali <rousanali786@gmail.com> (https://rousan.io)",
   "license": "MIT",
