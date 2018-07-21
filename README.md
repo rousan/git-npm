@@ -42,19 +42,19 @@ After installing the tool, you are ready use npm commands through git:
 
 ### Run `git install` instead of `npm install`
 
-<img src="https://github.com/rousan/git-npm/raw/develop/git-install.png" alt="git install" title="git install" />
+<img src="https://github.com/rousan/git-npm/raw/master/git-install.png" alt="git install" title="git install" />
 
 ### Run `git i` instead of `npm i`
 
-<img src="https://github.com/rousan/git-npm/raw/develop/git-i.png" alt="git i" title="git i" />
+<img src="https://github.com/rousan/git-npm/raw/master/git-i.png" alt="git i" title="git i" />
 
 ### Run `git test` instead of `npm test`
 
-<img src="https://github.com/rousan/git-npm/raw/develop/git-test.png" alt="git test" title="git test" />
+<img src="https://github.com/rousan/git-npm/raw/master/git-test.png" alt="git test" title="git test" />
 
 ### Run `git start` instead of `npm start`
 
-<img src="https://github.com/rousan/git-npm/raw/develop/git-start.png" alt="git start" title="git start" />
+<img src="https://github.com/rousan/git-npm/raw/master/git-start.png" alt="git start" title="git start" />
 
 ## Supported Commands
 
