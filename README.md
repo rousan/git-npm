@@ -16,7 +16,7 @@
 
 # What is it?
 
-As we use `git` frequently to manage our *Web projects*, it is common to make a mistake to run the `npm` commands with `git` e.g. we mistakenly type
+As we use `git` frequently to manage our *Web projects*, it is common to make a mistake to mix `npm` commands with `git` e.g. we mistakenly type
 `git install` instead of `npm install` or `git start` instead of `npm start` etc.
 
 Then here this tool comes to solve these issues: now you can run any `npm` command directly through `git` command e.g. run `git install` to install npm *node modules*
