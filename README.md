@@ -5,7 +5,8 @@
     <img src="https://github.com/rousan/git-npm/raw/develop/logo.png" width="400" alt="git-npm" title="git-npm">
   </a>
 </h3>
-<br>
+<br/>
+<br/>
 
 [![NPM version](https://img.shields.io/npm/v/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
 [![NPM total downloads](https://img.shields.io/npm/dt/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
@@ -38,7 +39,7 @@ After installing the tool, you are ready use npm commands from git:
 
 ### Run git install instead of npm install
 
-<img src="https://github.com/rousan/git-npm/raw/develop/git-install.png" " alt="git install" title="git install">
+<img src="https://github.com/rousan/git-npm/raw/develop/git-install.png" alt="git install" title="git install">
 
 ### Run git i instead of npm i
 
