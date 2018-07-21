@@ -7,6 +7,7 @@
 </h3>
 <br/>
 <br/>
+<br/>
 
 [![NPM version](https://img.shields.io/npm/v/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
 [![NPM total downloads](https://img.shields.io/npm/dt/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
