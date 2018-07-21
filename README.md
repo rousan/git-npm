@@ -7,8 +7,8 @@
 </h3>
 <br>
 
-[![NPM version](https://img.shields.io/npm/v/git-plus-npm)](https://www.npmjs.com/package/git-plus-npm)
-[![NPM total downloads](https://img.shields.io/npm/dt/git-plus-npm)](https://www.npmjs.com/package/git-plus-npm)
+[![NPM version](https://img.shields.io/npm/v/git-npm)](https://www.npmjs.com/package/git-plus-npm)
+[![NPM total downloads](https://img.shields.io/npm/dt/git-npm)](https://www.npmjs.com/package/git-plus-npm)
 [![Contributors](https://img.shields.io/github/contributors/rousan/git-npm)](https://github.com/rousan/git-npm/graphs/contributors)
 [![License](https://img.shields.io/github/license/rousan/git-npm)](https://github.com/rousan/git-npm/blob/master/LICENSE)
 
@@ -36,7 +36,21 @@ npm install -g git-plus-npm
 
 After installing the tool, you are ready use npm commands from git:
 
+### Run git install instead of npm install
 
+<img src="https://github.com/rousan/git-npm/raw/develop/git-install.png" " alt="git install" title="git install">
+
+### Run git i instead of npm i
+
+<img src="https://github.com/rousan/git-npm/raw/develop/git-i.png" alt="git i" title="git i">
+
+### Run git test instead of npm test
+
+<img src="https://github.com/rousan/git-npm/raw/develop/git-test.png" alt="git test" title="git test">
+
+### Run git start instead of npm start
+
+<img src="https://github.com/rousan/git-npm/raw/develop/git-start.png" alt="git start" title="git start">
 
 
 ## Not Supported NPM Commands
