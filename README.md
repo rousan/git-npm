@@ -7,10 +7,10 @@
 </h3>
 <br>
 
-[![NPM version](https://img.shields.io/npm/v/git-npm)](https://www.npmjs.com/package/git-plus-npm)
-[![NPM total downloads](https://img.shields.io/npm/dt/git-npm)](https://www.npmjs.com/package/git-plus-npm)
-[![Contributors](https://img.shields.io/github/contributors/rousan/git-npm)](https://github.com/rousan/git-npm/graphs/contributors)
-[![License](https://img.shields.io/github/license/rousan/git-npm)](https://github.com/rousan/git-npm/blob/master/LICENSE)
+[![NPM version](https://img.shields.io/npm/v/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
+[![NPM total downloads](https://img.shields.io/npm/dt/git-npm.svg)](https://www.npmjs.com/package/git-plus-npm)
+[![Contributors](https://img.shields.io/github/contributors/rousan/git-npm.svg)](https://github.com/rousan/git-npm/graphs/contributors)
+[![License](https://img.shields.io/github/license/rousan/git-npm.svg)](https://github.com/rousan/git-npm/blob/master/LICENSE)
 
 # What?
 
